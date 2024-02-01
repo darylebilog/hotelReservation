@@ -1,0 +1,187 @@
+﻿Room Type,Bed Type,Bed Count,Price,Room Number
+Guest,King,1,$175.00 ,100
+Guest,King,1,$175.00 ,101
+Guest,King,1,$175.00 ,102
+Guest,King,1,$175.00 ,103
+Guest,King,1,$175.00 ,104
+Guest,King,1,$175.00 ,105
+Guest,King,1,$175.00 ,106
+Guest,King,1,$175.00 ,107
+Guest,King,1,$175.00 ,108
+Guest,King,1,$175.00 ,109
+Guest,King,1,$175.00 ,200
+Guest,King,1,$175.00 ,201
+Guest,King,1,$175.00 ,202
+Guest,King,1,$175.00 ,203
+Guest,King,1,$175.00 ,204
+Guest,King,1,$175.00 ,205
+Guest,King,1,$175.00 ,206
+Guest,King,1,$175.00 ,207
+Guest,King,1,$175.00 ,208
+Guest,King,1,$175.00 ,209
+Guest - Deluxe,King,1,$350.00 ,300
+Guest - Deluxe,King,1,$350.00 ,301
+Guest - Deluxe,King,1,$350.00 ,302
+Guest - Deluxe,King,1,$350.00 ,303
+Guest - Deluxe,King,1,$350.00 ,304
+Guest - Deluxe,King,1,$350.00 ,305
+Guest - Deluxe,King,1,$350.00 ,306
+Guest - Deluxe,King,1,$350.00 ,307
+Guest - Deluxe,King,1,$350.00 ,308
+Guest - Deluxe,King,1,$350.00 ,309
+Guest - Deluxe,King,1,$350.00 ,400
+Guest - Deluxe,King,1,$350.00 ,401
+Guest - Deluxe,King,1,$350.00 ,402
+Guest - Deluxe,King,1,$350.00 ,403
+Guest - Deluxe,King,1,$350.00 ,404
+Guest - Deluxe,King,1,$350.00 ,405
+Guest - Deluxe,King,1,$350.00 ,406
+Guest - Deluxe,King,1,$350.00 ,407
+Guest - Deluxe,King,1,$350.00 ,408
+Guest - Deluxe,King,1,$350.00 ,409
+Guest,Queen,2,$210.00 ,110
+Guest,Queen,2,$210.00 ,111
+Guest,Queen,2,$210.00 ,112
+Guest,Queen,2,$210.00 ,113
+Guest,Queen,2,$210.00 ,114
+Guest,Queen,2,$210.00 ,115
+Guest,Queen,2,$210.00 ,116
+Guest,Queen,2,$210.00 ,117
+Guest,Queen,2,$210.00 ,118
+Guest,Queen,2,$210.00 ,119
+Guest,Queen,2,$210.00 ,210
+Guest,Queen,2,$210.00 ,211
+Guest,Queen,2,$210.00 ,212
+Guest,Queen,2,$210.00 ,213
+Guest,Queen,2,$210.00 ,214
+Guest,Queen,2,$210.00 ,215
+Guest,Queen,2,$210.00 ,216
+Guest,Queen,2,$210.00 ,217
+Guest,Queen,2,$210.00 ,218
+Guest,Queen,2,$210.00 ,219
+Guest - Deluxe,Queen,2,$420.00 ,310
+Guest - Deluxe,Queen,2,$420.00 ,311
+Guest - Deluxe,Queen,2,$420.00 ,312
+Guest - Deluxe,Queen,2,$420.00 ,313
+Guest - Deluxe,Queen,2,$420.00 ,314
+Guest - Deluxe,Queen,2,$420.00 ,315
+Guest - Deluxe,Queen,2,$420.00 ,316
+Guest - Deluxe,Queen,2,$420.00 ,317
+Guest - Deluxe,Queen,2,$420.00 ,318
+Guest - Deluxe,Queen,2,$420.00 ,319
+Guest - Deluxe,Queen,2,$420.00 ,410
+Guest - Deluxe,Queen,2,$420.00 ,411
+Guest - Deluxe,Queen,2,$420.00 ,412
+Guest - Deluxe,Queen,2,$420.00 ,413
+Guest - Deluxe,Queen,2,$420.00 ,414
+Guest - Deluxe,Queen,2,$420.00 ,415
+Guest - Deluxe,Queen,2,$420.00 ,416
+Guest - Deluxe,Queen,2,$420.00 ,417
+Guest - Deluxe,Queen,2,$420.00 ,418
+Guest - Deluxe,Queen,2,$420.00 ,419
+Executive,King,1,$520.00 ,500
+Executive,King,1,$520.00 ,501
+Executive,King,1,$520.00 ,502
+Executive,King,1,$520.00 ,503
+Executive,King,1,$520.00 ,504
+Executive,King,1,$520.00 ,605
+Executive,King,1,$520.00 ,606
+Executive,King,1,$520.00 ,607
+Executive,King,1,$520.00 ,608
+Executive,King,1,$520.00 ,609
+Executive - High Floor,King,1,$750.00 ,700
+Executive - High Floor,King,1,$750.00 ,701
+Executive - High Floor,King,1,$750.00 ,702
+Executive - High Floor,King,1,$750.00 ,703
+Executive - High Floor,King,1,$750.00 ,704
+Executive - High Floor,King,1,$750.00 ,705
+Executive - High Floor,King,1,$750.00 ,706
+Executive - High Floor,King,1,$750.00 ,707
+Executive - High Floor,King,1,$750.00 ,708
+Executive - High Floor,King,1,$750.00 ,709
+Executive,Queen,2,$610.00 ,600
+Executive,Queen,2,$610.00 ,601
+Executive,Queen,2,$610.00 ,602
+Executive,Queen,2,$610.00 ,603
+Executive,Queen,2,$610.00 ,604
+Executive,Queen,2,$610.00 ,505
+Executive,Queen,2,$610.00 ,506
+Executive,Queen,2,$610.00 ,507
+Executive,Queen,2,$610.00 ,508
+Executive,Queen,2,$610.00 ,509
+Executive - High Floor,Queen,2,$850.00 ,800
+Executive - High Floor,Queen,2,$850.00 ,801
+Executive - High Floor,Queen,2,$850.00 ,802
+Executive - High Floor,Queen,2,$850.00 ,803
+Executive - High Floor,Queen,2,$850.00 ,804
+Executive - High Floor,Queen,2,$850.00 ,805
+Executive - High Floor,Queen,2,$850.00 ,806
+Executive - High Floor,Queen,2,$850.00 ,807
+Executive - High Floor,Queen,2,$850.00 ,808
+Executive - High Floor,Queen,2,$850.00 ,809
+Suite,King,1,$955.00 ,900
+Suite,King,1,$955.00 ,901
+Suite,King,1,$955.00 ,902
+Suite,King,1,$955.00 ,903
+Suite,King,1,$955.00 ,904
+Suite,King,1,$955.00 ,905
+Suite,King,1,$955.00 ,906
+Suite,King,1,$955.00 ,907
+Suite,King,1,$955.00 ,908
+Suite,King,1,$955.00 ,909
+Suite - High Floor,King,1,"$1,350.00 ",1100
+Suite - High Floor,King,1,"$1,350.00 ",1101
+Suite - High Floor,King,1,"$1,350.00 ",1102
+Suite - High Floor,King,1,"$1,350.00 ",1103
+Suite - High Floor,King,1,"$1,350.00 ",1104
+Suite - High Floor,King,1,"$1,350.00 ",1105
+Suite - High Floor,King,1,"$1,350.00 ",1106
+Suite - High Floor,King,1,"$1,350.00 ",1107
+Suite - High Floor,King,1,"$1,350.00 ",1108
+Suite - High Floor,King,1,"$1,350.00 ",1109
+Suite,Queen,2,"$1,105.00 ",1000
+Suite,Queen,2,"$1,105.00 ",1001
+Suite,Queen,2,"$1,105.00 ",1002
+Suite,Queen,2,"$1,105.00 ",1003
+Suite,Queen,2,"$1,105.00 ",1004
+Suite,Queen,2,"$1,105.00 ",1005
+Suite,Queen,2,"$1,105.00 ",1006
+Suite,Queen,2,"$1,105.00 ",1007
+Suite,Queen,2,"$1,105.00 ",1008
+Suite,Queen,2,"$1,105.00 ",1009
+Suite - High Floor,Queen,2,"$1,690.00 ",1200
+Suite - High Floor,Queen,2,"$1,690.00 ",1201
+Suite - High Floor,Queen,2,"$1,690.00 ",1202
+Suite - High Floor,Queen,2,"$1,690.00 ",1203
+Suite - High Floor,Queen,2,"$1,690.00 ",1204
+Suite - High Floor,Queen,2,"$1,690.00 ",1205
+Suite - High Floor,Queen,2,"$1,690.00 ",1206
+Suite - High Floor,Queen,2,"$1,690.00 ",1207
+Suite - High Floor,Queen,2,"$1,690.00 ",1208
+Suite - High Floor,Queen,2,"$1,690.00 ",1209
+Presidential Suite,King,1,"$2,450.00 ",1400
+Presidential Suite,King,1,"$2,450.00 ",1401
+Presidential Suite,King,1,"$2,450.00 ",1402
+Presidential Suite,King,1,"$2,450.00 ",1403
+Presidential Suite,King,1,"$2,450.00 ",1404
+Presidential Suite - Deluxe,King,1,"$2,450.00 ",1500
+Presidential Suite - Deluxe,King,1,"$2,450.00 ",1501
+Presidential Suite - Deluxe,King,1,"$2,450.00 ",1502
+Presidential Suite - Deluxe,King,1,"$2,450.00 ",1503
+Presidential Suite - Deluxe,King,1,"$2,450.00 ",1504
+Presidential Suite,Queen,2,"$3,500.00 ",1405
+Presidential Suite,Queen,2,"$3,500.00 ",1406
+Presidential Suite,Queen,2,"$3,500.00 ",1407
+Presidential Suite,Queen,2,"$3,500.00 ",1408
+Presidential Suite,Queen,2,"$3,500.00 ",1409
+Presidential Suite - Deluxe,Queen,2,"$3,500.00 ",1505
+Presidential Suite - Deluxe,Queen,2,"$3,500.00 ",1506
+Presidential Suite - Deluxe,Queen,2,"$3,500.00 ",1507
+Presidential Suite - Deluxe,Queen,2,"$3,500.00 ",1508
+Presidential Suite - Deluxe,Queen,2,"$3,500.00 ",1509
+Penthouse,King,1,"$5,150.00 ",1600
+Penthouse,King,1,"$5,150.00 ",1601
+Penthouse,King,1,"$5,150.00 ",1602
+Penthouse,Queen,2,"$5,675.00 ",1603
+Penthouse,Queen,2,"$5,675.00 ",1604
+Penthouse,Queen,2,"$5,675.00 ",1605
